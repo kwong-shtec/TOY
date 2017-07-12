@@ -73,6 +73,7 @@ namespace TOY.MovieDB.Entities
             public readonly Int32Field Kind;
             public readonly Int32Field GenreId;
             public readonly StringField GenreName;
+            //hello
 
             public RowFields()
                 : base()
